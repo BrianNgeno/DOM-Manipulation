@@ -1,0 +1,28 @@
+{
+  "dishes": [
+    {
+      "id": "1",
+      "name": "Rice and Curry Food",
+      "img": "https://images.pexels.com/photos/674574/pexels-photo-674574.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "a deceptively simple description that, on one level, is exactly as it sounds: rice served with a mouthwatering curry alongside, be that dhal, fish, chicken, seafood or vegetable",
+      "price": 1500,
+      "inventory": 12
+    },
+    {
+      "id": "2",
+      "name": "Mongolian Beef",
+      "img": "https://images.pexels.com/photos/2313686/pexels-photo-2313686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "a dish from Taiwan[1] consisting of sliced beef, typically flank steak, usually made with onions.[2] The beef is commonly paired with scallions or mixed vegetables and is often not spicy. ",
+      "price": 2000,
+      "inventory": 12
+    },
+    {
+      "id": "3",
+      "name": "Fettuccine Alfredo",
+      "img": "https://images.pexels.com/photos/546945/pexels-photo-546945.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "an Italian pasta dish of fresh fettuccine tossed with butter and Parmesan. As the cheese melts, it emulsifies the liquids to form a smooth and rich cheese sauce coating the pasta",
+      "price": 3000,
+      "inventory": 12
+    }
+  ]
+}
